@@ -37,6 +37,7 @@
 - [Baptiste Briel](http://bbriel.me/)
 - [Luigi De Rosa](http://luruke.com/)
 - [Lucas Martin](http://lucasmartin.fr/)
+- [Suhel Kapadia](https://www.suhelkapadia.engineer/)
 - [Armand Biteau](http://www.armandbiteau.com/)
 - [Terkel Gjervig](https://terkel.com/)
 - [Georg Fischer](https://fishnation.de/)
