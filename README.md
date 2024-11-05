@@ -89,6 +89,7 @@
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
 - [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
+- [Ghom Krosmonaute](https://ghomkrosmonaute.github.io/?game)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
