@@ -89,6 +89,7 @@
 - [Samuel Ramos](http://www.highfivebro.com/)
 - [Rick Waalders](http://rickwaalders.com/)
 - [Jean-Baptiste Giffard](http://www.digitaldesigner.cool/)
+- [Devansh Tiwari](https://devanshtiwari.com)
 
 ## Creative Agencies
 - [Bluegg](https://bluegg.co.uk/)
